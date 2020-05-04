@@ -1,1 +1,1 @@
-# Sam_to_Bedgraph_converter
+# Sam-to-Bedgraph converter
